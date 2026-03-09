@@ -26,15 +26,16 @@ I am an AI & Data Science professional at **Chaman Bhartiya School** with a stro
 
 ### 🛰️ Featured Arduino Projects
 
+
 #### 📡 [Ultrasonic Radar System](https://github.com/Manojkumar9513/radar-system)
-A hardware-software hybrid that visualizes surroundings in a 180° radius. 
+A hardware-software hybrid that visualizes surroundings in a 180° radius.
 * **How it works:** Uses an HC-SR04 Ultrasonic sensor mounted on a Servo motor.
 * **Tech:** Arduino IDE & Processing (for the radar UI).
 
 #### 📍 [Real-Time GPS Tracking](https://github.com/Manojkumar9513/gps-tracker)
-An IoT solution for live coordinate tracking and path logging.
-* **How it works:** Interfaces a NEO-6M GPS module to extract NEMA sentences.
-* **Tech:** TinyGPS++ library and Serial communication.
+An IoT solution for live coordinate tracking and path logging via NEO-6M.
+* **How it works:** Interfaces a GPS module to extract NEMA sentences for location mapping.
+* **Tech:** Arduino IDE & TinyGPS++ Library.
 
 #### 🏎️ [Speed Detection System](https://github.com/Manojkumar9513/speed-detector)
 A sensor-based system to calculate the velocity of moving objects.
